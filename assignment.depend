@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1719161533 source:c:\users\elite\desktop\assignment\main.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<cstdlib>
+
